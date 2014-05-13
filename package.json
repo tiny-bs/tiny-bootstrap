@@ -1,0 +1,24 @@
+{
+  "name": "tiny-bootstrap",
+  "version": "0.0.0",
+  "description": "custom front-end bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tiny-bs/tiny-bootstrap"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-compass": "^0.7.2",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.3.3",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "author": "Mikael Colliander",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
